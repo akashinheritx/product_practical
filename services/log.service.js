@@ -1,5 +1,5 @@
 var Logger = require('../models/logger.model');
-const dateFormat = require('../helper/dateFormate.helper');
+const dateFormat = require('../helper/dateFormat.helper');
 
 exports.responseData = async (req,res) => {
     try {

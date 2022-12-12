@@ -28,7 +28,7 @@
     "csvtojson": "^2.0.10",
     "docdash": "^1.2.0",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.1.1",
     "fcm-node": "^1.5.1",
     "gm": "^1.23.1",
